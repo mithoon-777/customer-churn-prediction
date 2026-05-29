@@ -61,7 +61,6 @@ customer-churn-prediction/
 ├── dataset.csv
 ├── README.md
 ├── requirements.txt
-└── screenshots/
 
 ## Author
 
